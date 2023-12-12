@@ -4,4 +4,4 @@ deb_loater is a simple script to remove all unnecessary packages from Debian 12 
 
 Use this command to run it:
 
-`curl https://tinyurl.com/5n6bsfb9 | sh`
+`curl https://raw.githubusercontent.com/AndreaSimonetti2001/deb_loater/main/debloater.sh | sh`

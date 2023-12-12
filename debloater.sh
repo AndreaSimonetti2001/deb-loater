@@ -1,4 +1,5 @@
-#!/bin/bash
+#! /bin/bash
+echo Hello
 sudo apt remove -y goldendict 
 sudo apt remove -y gnome-robots 
 sudo apt remove -y gnome-chess 
